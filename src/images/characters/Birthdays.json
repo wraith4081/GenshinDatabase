@@ -1,0 +1,294 @@
+[
+    {
+        "birthday": "Player's Choice",
+        "name": "Traveler"
+    },
+    {
+        "birthday": "January 3rd",
+        "name": "Wanderer"
+    },
+    {
+        "birthday": "January 9th",
+        "name": "Thoma"
+    },
+    {
+        "birthday": "January 18th",
+        "name": "Diona"
+    },
+    {
+        "birthday": "January 22nd",
+        "name": "Kirara"
+    },
+    {
+        "birthday": "January 24th",
+        "name": "Rosaria"
+    },
+    {
+        "birthday": "February 2nd",
+        "name": "Lynette"
+    },
+    {
+        "birthday": "February 2nd",
+        "name": "Lyney"
+    },
+    {
+        "birthday": "February 11th",
+        "name": "Alhaitham"
+    },
+    {
+        "birthday": "February 14th",
+        "name": "Beidou"
+    },
+    {
+        "birthday": "February 22nd",
+        "name": "Sangonomiya Kokomi"
+    },
+    {
+        "birthday": "February 29th",
+        "name": "Bennett"
+    },
+    {
+        "birthday": "March 3rd",
+        "name": "Qiqi"
+    },
+    {
+        "birthday": "March 6th",
+        "name": "Yaoyao"
+    },
+    {
+        "birthday": "March 10th",
+        "name": "Shenhe"
+    },
+    {
+        "birthday": "March 14th",
+        "name": "Jean"
+    },
+    {
+        "birthday": "March 21st",
+        "name": "Noelle"
+    },
+    {
+        "birthday": "March 26th",
+        "name": "Kamisato Ayato"
+    },
+    {
+        "birthday": "April 4th",
+        "name": "Aloy"
+    },
+    {
+        "birthday": "April 7th",
+        "name": "Dehya"
+    },
+    {
+        "birthday": "April 17th",
+        "name": "Xiao"
+    },
+    {
+        "birthday": "April 20th",
+        "name": "Yelan"
+    },
+    {
+        "birthday": "April 25th",
+        "name": "Baizhu"
+    },
+    {
+        "birthday": "April 30th",
+        "name": "Diluc"
+    },
+    {
+        "birthday": "May 3rd",
+        "name": "Candace"
+    },
+    {
+        "birthday": "May 8th",
+        "name": "Collei"
+    },
+    {
+        "birthday": "May 18th",
+        "name": "Gorou"
+    },
+    {
+        "birthday": "May 21st",
+        "name": "Yun Jin"
+    },
+    {
+        "birthday": "May 27th",
+        "name": "Fischl"
+    },
+    {
+        "birthday": "June 1st",
+        "name": "Arataki Itto"
+    },
+    {
+        "birthday": "June 1st",
+        "name": "Paimon"
+    },
+    {
+        "birthday": "June 9th",
+        "name": "Lisa"
+    },
+    {
+        "birthday": "June 16th",
+        "name": "Venti"
+    },
+    {
+        "birthday": "June 21st",
+        "name": "Yoimiya"
+    },
+    {
+        "birthday": "June 23rd",
+        "name": "Cyno"
+    },
+    {
+        "birthday": "June 26th",
+        "name": "Raiden Shogun"
+    },
+    {
+        "birthday": "June 27th",
+        "name": "Yae Miko"
+    },
+    {
+        "birthday": "July 5th",
+        "name": "Barbara"
+    },
+    {
+        "birthday": "July 9th",
+        "name": "Kaveh"
+    },
+    {
+        "birthday": "July 14th",
+        "name": "Kujou Sara"
+    },
+    {
+        "birthday": "July 15th",
+        "name": "Hu Tao"
+    },
+    {
+        "birthday": "July 20th",
+        "name": "Tartaglia"
+    },
+    {
+        "birthday": "July 24th",
+        "name": "Shikanoin Heizou"
+    },
+    {
+        "birthday": "July 27th",
+        "name": "Klee"
+    },
+    {
+        "birthday": "July 27th",
+        "name": "Kuki Shinobu"
+    },
+    {
+        "birthday": "July 28th",
+        "name": "Yanfei"
+    },
+    {
+        "birthday": "August 10th",
+        "name": "Amber"
+    },
+    {
+        "birthday": "August 11th",
+        "name": "Mika"
+    },
+    {
+        "birthday": "August 20th",
+        "name": "Faruzan"
+    },
+    {
+        "birthday": "August 26th",
+        "name": "Ningguang"
+    },
+    {
+        "birthday": "August 31st",
+        "name": "Mona"
+    },
+    {
+        "birthday": "September 7th",
+        "name": "Chongyun"
+    },
+    {
+        "birthday": "September 9th",
+        "name": "Razor"
+    },
+    {
+        "birthday": "September 13th",
+        "name": "Albedo"
+    },
+    {
+        "birthday": "September 24th",
+        "name": "Freminet"
+    },
+    {
+        "birthday": "September 28th",
+        "name": "Kamisato Ayaka"
+    },
+    {
+        "birthday": "October 9th",
+        "name": "Xingqiu"
+    },
+    {
+        "birthday": "October 16th",
+        "name": "Xinyan"
+    },
+    {
+        "birthday": "October 19th",
+        "name": "Sayu"
+    },
+    {
+        "birthday": "October 25th",
+        "name": "Eula"
+    },
+    {
+        "birthday": "October 27th",
+        "name": "Nahida"
+    },
+    {
+        "birthday": "October 29th",
+        "name": "Kaedehara Kazuha"
+    },
+    {
+        "birthday": "November 2nd",
+        "name": "Xiangling"
+    },
+    {
+        "birthday": "November 20th",
+        "name": "Keqing"
+    },
+    {
+        "birthday": "November 26th",
+        "name": "Sucrose"
+    },
+    {
+        "birthday": "November 30th",
+        "name": "Kaeya"
+    },
+    {
+        "birthday": "December 2nd",
+        "name": "Ganyu"
+    },
+    {
+        "birthday": "December 3rd",
+        "name": "Nilou"
+    },
+    {
+        "birthday": "December 18th",
+        "name": "Neuvillette"
+    },
+    {
+        "birthday": "December 19th",
+        "name": "Layla"
+    },
+    {
+        "birthday": "December 21st",
+        "name": "Dori"
+    },
+    {
+        "birthday": "December 29th",
+        "name": "Tighnari"
+    },
+    {
+        "birthday": "December 31st",
+        "name": "Zhongli"
+    }
+]
