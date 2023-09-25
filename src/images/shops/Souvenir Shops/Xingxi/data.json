@@ -1,0 +1,70 @@
+{
+    "Vendor": "Xingxi",
+    "Currency": "Geo Sigil",
+    "Offers": [
+        {
+            "title": "Agnidus Agate Sliver",
+            "quantity": "12"
+        },
+        {
+            "title": "Varunada Lazurite Sliver",
+            "quantity": "12"
+        },
+        {
+            "title": "Vayuda Turquoise Sliver",
+            "quantity": "12"
+        },
+        {
+            "title": "Shivada Jade Sliver",
+            "quantity": "12"
+        },
+        {
+            "title": "Prithiva Topaz Sliver",
+            "quantity": "12"
+        },
+        {
+            "title": "Vajrada Amethyst Sliver",
+            "quantity": "12"
+        },
+        {
+            "title": "Luminous Sands from Guyun",
+            "quantity": "3"
+        },
+        {
+            "title": "Mist Veiled Lead Elixir",
+            "quantity": "3"
+        },
+        {
+            "title": "Grain of Aerosiderite",
+            "quantity": "3"
+        },
+        {
+            "title": "Memory of Immovable Crystals",
+            "quantity": "4"
+        },
+        {
+            "title": "Northlander Bow Billet",
+            "quantity": "1"
+        },
+        {
+            "title": "Northlander Claymore Billet",
+            "quantity": "1"
+        },
+        {
+            "title": "Northlander Catalyst Billet",
+            "quantity": "1"
+        },
+        {
+            "title": "Northlander Polearm Billet",
+            "quantity": "1"
+        },
+        {
+            "title": "Mora",
+            "quantity": "120"
+        },
+        {
+            "title": "Mora",
+            "quantity": "—"
+        }
+    ]
+}

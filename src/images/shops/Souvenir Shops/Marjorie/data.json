@@ -1,0 +1,58 @@
+{
+    "Vendor": "Marjorie",
+    "Currency": "Anemo Sigil",
+    "Offers": [
+        {
+            "title": "Agnidus Agate Sliver",
+            "quantity": "6"
+        },
+        {
+            "title": "Varunada Lazurite Sliver",
+            "quantity": "6"
+        },
+        {
+            "title": "Vayuda Turquoise Sliver",
+            "quantity": "6"
+        },
+        {
+            "title": "Shivada Jade Sliver",
+            "quantity": "6"
+        },
+        {
+            "title": "Prithiva Topaz Sliver",
+            "quantity": "6"
+        },
+        {
+            "title": "Vajrada Amethyst Sliver",
+            "quantity": "6"
+        },
+        {
+            "title": "Tile of Decarabian's Tower",
+            "quantity": "3"
+        },
+        {
+            "title": "Boreal Wolf's Milk Tooth",
+            "quantity": "3"
+        },
+        {
+            "title": "Fetters of the Dandelion Gladiator",
+            "quantity": "3"
+        },
+        {
+            "title": "Memory of Roving Gales",
+            "quantity": "1"
+        },
+        {
+            "title": "Northlander Sword Billet",
+            "quantity": "1"
+        },
+        {
+            "title": "Mora",
+            "quantity": "60"
+        },
+        {
+            "title": "Mora",
+            "quantity": "—"
+        }
+    ]
+}
